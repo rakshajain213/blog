@@ -19,5 +19,17 @@ I completed the following courses on PrepInsta Prime -
 
 The best part I liked about PrepInsta Prime was that you pay for one single subscription and get access to over **200+ courses**.
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300>
+You can check the course list here it consists of all the 200+ courses offered under PrepInsta Prime Subscription - 
+https://prepinstaprime.com/course-list
+
+
+### PrepInsta Prime Trailer
+
+Trailer for PrepInsta Prime courses can be found here
+
+https://www.youtube.com/watch?v=25ag5ZZUQds
+
+### Course Screenshots
+
+<img src=https://github.com/rakshajain213/blog/blob/main/PrepInsta%20Prime%20Review1.png alt=celebrate>
 </div>

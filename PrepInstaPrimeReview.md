@@ -31,5 +31,15 @@ https://www.youtube.com/watch?v=25ag5ZZUQds
 
 ### Course Screenshots
 
-<img src=https://github.com/rakshajain213/blog/blob/main/PrepInsta%20Prime%20Review1.png alt=celebrate>
-</div>
+<img src=https://github.com/rakshajain213/blog/blob/main/PrepInsta%20Prime%20Review1.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%20PrepInsta%20Prime%201.jpg alt=PrepInstaPrimeReview2>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%20PrepInsta%20Prime%202.jpg alt=PrepInstaPrimeReview3>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%20PrepInsta%20Prime%203.jpg alt=PrepInstaPrimeReview4>
+
+## PrepInsta Prime Placement Report
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.06.48%20PM.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.06.59%20PM.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.07.06%20PM.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.07.14%20PM.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.07.26%20PM.png alt=PrepInstaPrimeReview1>
+<img src=https://github.com/rakshajain213/blog/blob/main/Screenshot%202022-09-06%20at%208.07.39%20PM.png alt=PrepInstaPrimeReview1>
